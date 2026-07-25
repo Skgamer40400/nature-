@@ -195,7 +195,7 @@ h1, h2, h3 {
   position: relative;
   height: 100vh;
   min-height: 550px;
-  background: url("image/image6.jpg") center/cover no-repeat fixed;
+  background: url("image6.jpg") center/cover no-repeat fixed;
   display: flex;
   align-items: center;
   justify-content: center;
